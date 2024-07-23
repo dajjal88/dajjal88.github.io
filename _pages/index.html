@@ -1,0 +1,13 @@
+---
+layout: default
+avatar: true
+permalink: /
+---
+{% for post in site.data.demoselot %}
+<div class="post_content">
+	<a class="title_text" href="{{ post.url | prepend: site.baseurl }}" target="_blank">{{ post.title }}</a>
+		<a href="{{ post.url | prepend: site.baseurl }}" target="_blank">
+            <amp-img class="avatar" src="{{ post.img }}" width="90" height="90" layout="responsive" alt="{{ post.title }}" ></amp-img>
+	</a>
+</div>
+{% endfor %}
