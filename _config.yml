@@ -4,9 +4,9 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Demo Slot Gacor Pragmatic Play.
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "https://maxwin493.servegame.com/dajjal88slot" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://dajjal88slot.servegame.com" # the base hostname & protocol for your site
+twitter_username: pragmaticplay
+github_username:  pragmaticplay
 GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
