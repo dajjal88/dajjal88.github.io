@@ -225,6 +225,7 @@
     z-index: 1;
     margin: 1%;
     text-shadow: 1px -1px black;
+    text-align: center;
     font-weight: bolder;
     color: cyan;
 @include media-query($on-device) {
