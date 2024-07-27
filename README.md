@@ -1,1 +1,1 @@
-Demo Slot [dajjal88slot](https://dajjal88.konek.web.id)
+Demo Slot [dajjal88slot](dajjal88slot.servegame.com)
